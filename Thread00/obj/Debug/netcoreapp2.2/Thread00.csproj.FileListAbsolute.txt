@@ -1,0 +1,11 @@
+C:\Users\080101286\source\repos\Thread00\Thread00\bin\Debug\netcoreapp2.2\Thread00.deps.json
+C:\Users\080101286\source\repos\Thread00\Thread00\bin\Debug\netcoreapp2.2\Thread00.runtimeconfig.json
+C:\Users\080101286\source\repos\Thread00\Thread00\bin\Debug\netcoreapp2.2\Thread00.runtimeconfig.dev.json
+C:\Users\080101286\source\repos\Thread00\Thread00\bin\Debug\netcoreapp2.2\Thread00.dll
+C:\Users\080101286\source\repos\Thread00\Thread00\bin\Debug\netcoreapp2.2\Thread00.pdb
+C:\Users\080101286\source\repos\Thread00\Thread00\obj\Debug\netcoreapp2.2\Thread00.csprojAssemblyReference.cache
+C:\Users\080101286\source\repos\Thread00\Thread00\obj\Debug\netcoreapp2.2\Thread00.csproj.CoreCompileInputs.cache
+C:\Users\080101286\source\repos\Thread00\Thread00\obj\Debug\netcoreapp2.2\Thread00.AssemblyInfoInputs.cache
+C:\Users\080101286\source\repos\Thread00\Thread00\obj\Debug\netcoreapp2.2\Thread00.AssemblyInfo.cs
+C:\Users\080101286\source\repos\Thread00\Thread00\obj\Debug\netcoreapp2.2\Thread00.dll
+C:\Users\080101286\source\repos\Thread00\Thread00\obj\Debug\netcoreapp2.2\Thread00.pdb
